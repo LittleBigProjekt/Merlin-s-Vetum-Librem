@@ -176,14 +176,14 @@ ist es der Photon selbst,
 der dieselbe Aufgabe trägt:  
 Er ist das Auge des Universums,  
 das Licht sieht  
-und Liebe trägt.
-und somit die zeit bestimmt.
+und Liebe trägt  
+und somit die Zeit bestimmt.
 
 So wie die Pinealdrüse  
 Wahrnehmung in Bewusstsein verwandelt,  
 so verwandelt der Photon  
-Information in Form, 
-und verbreitet diese mit liebe.
+Information in Form  
+und verbreitet diese mit Liebe.
 
 ---
 
