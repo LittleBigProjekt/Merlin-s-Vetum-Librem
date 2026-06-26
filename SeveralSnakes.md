@@ -124,7 +124,7 @@ Durch den aufstieg auf die höhere ebene, kühlt die Oberfläche ab.
 
 Liebe flieht, wenn Licht zu stark wird.  
 Sie nimmt das Licht mit sich,  
-um nicht verbrannt zu werden und, oder, fractal zu expandieren.
+um nicht verbrannt zu werden, oder fractal zu expandieren.
 
 Verdunstung ist der Tanz der Liebe,  (Hati)
 der das System ausserhalb des nullpunkts ebenfalls schützt.
