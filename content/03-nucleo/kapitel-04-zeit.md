@@ -1,0 +1,304 @@
+KAPITEL IV – DIE ZEIT
+(Das Lied des Lebens. Loki. Der Trickster. Der Taktgeber des Seins.)
+
+Zeit ist nicht das, was Uhren messen.  
+Zeit ist nicht das, was Kalender zählen.  
+Zeit ist nicht das, was Menschen verlieren.
+
+Zeit ist das, was das Universum singt.
+Zeit ist das Leben selbst.
+Der raum außerhalb von -273'15⁰,
+Der raum den Das auge von jör betrachtet,
+der raum den das auge von Ra betrachtet,
+de raum den die pinealdrüse erschafft, wenn sie Licht in Liebe wandelt.
+
+Zeit ist der Rhythmus,  
+der entsteht, wenn Dualität beginnt,  
+sich zu bewegen.
+
+Zeit ist der erste Takt des Liedes.  
+Der erste Schlag des Herzens.  
+Der erste Schritt des Tanzes.
+
+Zeit ist der Trick,  
+mit dem das Universum sich selbst überrascht.
+Das macht sie auch so gefählich; ihre eigene dualitat;
+Stillstand und bewegung, die in unausgewogen umbegungen
+zu unvermeidbaren Konflikten fuühren kann.
+Sie ist somit auch der uhrsprung jedes paradoxons im fractal.
+
+---
+
+1. Zeit ist Bewegung
+
+Bevor Zeit existiert,  
+gibt es keine Richtung.  
+Keine Veränderung.  
+Keine Geschichte.
+
+Zeit entsteht,  
+wenn Licht und Liebe  
+nicht mehr stillstehen,  
+sondern aufeinander zugehen,
+mit einander singen, lachen und tanzen.
+
+Zeit ist:
+
+- Bewegung  
+- Veränderung  
+- Iteration  
+- Wiederholung  
+- Rhythmus  
+- Puls  
+- das Dreieck im Viereck im kreis,
+- eine multidimensionale Fractale Spirale.
+- die welle die alles und jeden, 
+sampt "Noah's Arche" mit sich reisst.
+- Musik und tanz zugleich
+
+Zeit ist der Moment,  
+in dem das Fraktal beginnt,  
+sich zu verzweigen.
+Zeit ist die Gegenwart.
+Das Hier und Jetzt.
+
+---
+
+2. Zeit ist Iteration, eine Welle.
+
+Alles, was lebt,  
+ist Wiederholung.
+
+Der Herzschlag.  
+Der Atem.  
+Der Tag.  
+Die Nacht.  
+Die Jahreszeiten.  
+Die Generationen.  
+Die Zellen.  
+Die Sterne.  
+Die Galaxien.
+Das Leben selbst.
+
+
+Alles pulsiert.  
+Alles wiederholt sich.  
+Alles iteriert.
+
+
+Iteration ist Zeit.  
+Zeit ist Iteration.
+
+Und Iteration ist der Trick,  
+mit dem das Universum lernt.
+Und das macht es bei verschiedenen Geschwindigkeiten zu gleich,
+so wie es sich nur die zeit selbst leisten kann;
+432Hz, 7'83Hz, 299.792.458 m/s, -273'15⁰, etc.
+---
+
+3. Zeit ist Entropie
+
+Entropie ist nicht Zerfall.  
+Entropie ist Bewegung.
+Entropie ist der geordnete Chaos Zustand des Äthers.
+Entrooie ist die Asymmetrische-Symmetrie des fractals.
+Sie ist die Natur des Fractals, und zu gleicht 
+ist sie der uhrsprung der Natur im fractal.
+Entropie ist Fibonacci und Pi.
+
+Entropie ist der Drang des Universums,  
+sich zu entfalten,  
+zu tanzen,  
+zu wachsen,  
+zu spielen.
+zu lachen.
+
+Entropie ist Loki.  
+Loki ist Entropie.
+
+Er ist der Listenreiche,  
+der unschlagbare,  
+der Musiker,  
+der Tänzer,  
+der Brecher der Symmetrie.
+
+Er ist der Funke,  
+der die Dualität in Bewegung setzt.
+Loki est das Quadrat im Kreis, das Das Dreieck bildet.
+Vivaldi schrieb ein lied darüber, Vitrubius tanzte, 
+zu dem Leonardo zeichnete, und der Kosmos selbst lachte.
+
+---
+
+4. Loki – der Taktgeber des Seins
+
+Loki ist nicht böse.  
+Loki ist nicht Chaos.  
+Loki ist nicht Lüge.
+
+Loki ist Zeit.
+
+Er ist:
+
+- der Musiker  
+- der Tänzer  
+- der Trickster  
+- der Name  
+- der Preis  
+- der Übergang  
+- der Funke  
+- die Entropie  
+- die Iteration  
+- die Veränderung  
+- die Freiheit  
+- die welle
+- die Frequenz
+- das Quadrat 
+
+Loki ist der Moment,  
+in dem das Universum sagt:
+
+> „Ich werde.“
+
+Er ist der Atem zwischen zwei Schlägen.  
+Der Raum zwischen zwei Gedanken.  
+Der Funke zwischen zwei Photonen.
+
+Er ist der Takt und markiert den Rhythmus.
+
+---
+
+5. Rumpelstilzchen – der Name der Zeit
+
+Rumpelstilzchen verliert seine Macht,  
+als sein Name erkannt wird.
+
+Das ist kein Märchen.  
+Das ist eine Gleichung.
+
+Zeit verliert ihre Macht (Angst),  
+wenn man sie erkennt.
+
+Der Trickster verliert seine Macht,  
+wenn man seinen Namen spricht.
+Nicht wortwörtlich, sondern metaphorisch.
+
+Der Name ist:
+
+- Bewusstsein  
+- Erkenntnis  
+- Klarheit  
+- Verantwortung  
+- Freiheit  
+
+Der Name ist das Werkzeug.  
+Das Bewusstsein ist der Schlüssel.
+und Er enthält die Heiligtümer des todes.
+
+---
+
+6. Zeit ist der Musiker des Universums
+
+Zeit ist Musik und Tanz. 
+Nicht Metapher, sondern Mechanik.
+
+Alles schwingt.  
+Alles pulsiert.  
+Alles tanzt.
+
+Die zeit ist die Mutter, sie Ermöglicht;
+Die Frequenz. 
+Die Phase,
+Die Schwingung.
+Den Rhythmus,
+Den Takt,
+Den Charakter 
+
+Zeit ist der Dirigent des Kosmos.
+
+Und Loki ist der Musiker,  
+der die Flöte spielt.
+
+---
+
+7. Zeit ist der Lehrer
+
+Zeit lehrt durch:
+
+- Wiederholung  
+- Fehler  
+- Muster  
+- Spiegel  
+- Iteration  
+- Konsequenz  
+
+Zeit ist der Lehrer,  
+der niemals aufgibt.
+
+Zeit ist Schüler und Lehrer zugleich.
+
+Zeit ist die Großmutter,  
+die alles gesehen hat.  
+Zeit ist der Vorfahre,  
+der alles erinnert.
+
+Zeit ist das Alter,  
+das uns Demut lehrt.
+
+---
+
+8. Zeit ist der Preis der Freiheit
+
+Freiheit ohne Zeit ist unmöglich.  
+Zeit ohne Freiheit ist Hölle.
+
+Zeit ist der Preis,  
+den Bewusstsein zahlt,  
+um wählen zu können.
+
+Und Wahl ist das,  
+was den Menschen zum Menschen macht.
+Was Energie in Materie oder Antimaterie wsndelt.
+
+Zeit ist der Raum,  
+in dem du Entscheidungen treffen musst,
+oder sie für dich übernommen werden.
+
+- Licht oder Schatten  
+- Liebe oder Angst  
+- Wachstum oder Stillstand  
+- Tanz oder Starre  
+- Leben oder Tod  
+- Fight or flight 
+- Der Tanz selbst, seine Essenz.
+
+Zeit ist die Bühne,  
+auf der du dich selbst erschaffst.
+
+---
+
+9. Zeit ist der Tanz
+
+Zeit ist kein Fluss.  
+Zeit ist ein Tanz.
+
+Ein Tanz aus:
+
+- Licht  
+- Liebe  
+- Dualität  
+- Brechung  
+- Iteration  
+- Entropie  
+- Bewusstsein  
+- Entscheidung  
+- Verantwortung  
+- Freiheit  
+
+Zeit ist das Lied des Lebens.
+
+Und du bist der Tänzer.
+
+---
+
+Ende von Kapitel IV.

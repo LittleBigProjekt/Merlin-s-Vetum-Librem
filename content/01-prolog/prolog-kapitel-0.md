@@ -1,0 +1,251 @@
+PROLOG – DAS LICHT
+(Kapitel 0 des Vetum Librem)
+
+Es gibt einen Punkt, an dem alle Geschichten beginnen.  
+Nicht im Raum.  
+Nicht in der Zeit.  
+Nicht in einer Religion, einer Kultur oder einer Sprache.  
+Sondern davor.
+
+Ein Punkt ohne Form,  
+ohne Richtung,  
+ohne Bewegung,  
+ohne Namen.
+
+Ein Punkt, der alles enthält,  
+aber nichts zeigt.  
+Ein Punkt, der unendlich ist,  
+aber keine Ausdehnung hat.
+
+Dieser Punkt ist der Nullpunkt.
+
+Er ist der Ursprung aller Dinge,  
+der Schrei vor dem ersten Atem,  
+die Stille vor dem ersten Klang,  
+die Dunkelheit vor dem ersten Licht.
+
+Und aus diesem Punkt entsteht alles,  
+was jemals war,  
+was jemals ist,  
+und was jemals sein wird.
+
+---
+
+Was ist der Nullpunkt?
+
+Der Nullpunkt ist kein Ort.  
+Er ist ein Zustand.
+
+Er ist die Möglichkeit aller Möglichkeiten.  
+Er ist das Feld, aus dem Form entsteht,
+es ist der Äther und die Entropie,
+Er ist die Leere, die nicht leer ist.  
+Er ist das Zentrum, das überall ist.
+
+In der Physik nennt man ihn Vakuumfluktuation. 
+In der Naturwissenschaft, Oberflächenspannung.
+In der Mystik nennt man ihn Äther.  
+In der Mathematik nennt man ihn 0.  
+In der Psychologie nennt man ihn Selbst.  
+In der filisofie nennt man ihn das Sein.
+In der Mythologie nennt man ihn Urschlange.  
+In der Kunst nennt man ihn Leinwand.
+
+Doch all diese Worte sind nur Schatten.  
+Der Nullpunkt ist das,  
+was bleibt, wenn alle Worte verschwinden.
+
+---
+
+Was ist Dualität?
+
+Wenn der Nullpunkt sich bewegt,  
+entsteht Spannung.  
+Wenn Spannung entsteht,  
+entsteht Richtung.  
+Wenn Richtung entsteht,  
+entsteht Zweiheit.
+
+Licht und Liebe.  
+Schatten und Angst.
+Ordnung und Chaos.  
+Form und Bewegung.  
+Sonne und Mond.  
+Sköll und Hati.  
+Adam und Eva.  
+Proton und Elektron.  
+Yin und Yang.
+Wasser und salz.
+Musik und tanz.
+
+Dualität ist nicht Kampf.  
+Dualität ist Tanz.
+
+Sie ist der erste Schritt des Universums,  
+der erste Puls,  
+der erste Herzschlag.
+
+Ohne Dualität gäbe es keine Bewegung.  
+Ohne Bewegung gäbe es keine Zeit.  
+Ohne Zeit gäbe es kein Leben.
+
+---
+
+Was ist Zeit?
+
+Zeit ist nicht das, was Uhren messen.  
+Zeit ist das, was Veränderung möglich macht.
+
+Zeit ist der Impuls,  
+der den Nullpunkt in zwei Richtungen zieht.  
+Zeit ist die Melodie,  
+die das Universum tanzt.  
+Zeit ist der Listen Reiche,  
+der Musiker,  
+der Brecher der Symmetrie.
+der unschlagbare.
+
+Zeit ist das Lied des Lebens.
+
+---
+
+Was ist Bewusstsein?
+
+Bewusstsein ist das Licht,  
+das sich selbst sieht.
+
+Es ist der Moment,  
+in dem das Universum erkennt,  
+dass es existiert.
+
+Bewusstsein ist nicht im Gehirn.  
+Bewusstsein ist im Feld.  
+Das Gehirn ist nur der Empfänger.
+
+Bewusstsein ist das Auge,  
+das durch alle Augen schaut.
+
+---
+
+Was ist ein Fraktal?
+
+Ein Fraktal ist ein Muster,  
+das sich selbst wiederholt,  
+auf jeder Ebene,  
+in jeder Größe,  
+in jeder Welt.
+
+Galaxien sind Fraktale.  
+Bäume sind Fraktale.  
+Gedanken sind Fraktale.  
+Mythologien sind Fraktale.  
+Religionen sind Fraktale.  
+Menschen sind Fraktale.
+Das Meer ist ein fractal.
+
+Das Vetum Librem ist ein Fraktal.
+
+---
+
+Was ist ein Archetyp?
+
+Ein Archetyp ist ein Urbild.  
+Eine Form, die älter ist als jede Kultur.  
+Ein Muster, das im Bewusstsein aller Menschen lebt.
+
+Die Schlange.  
+Der Held.  
+Der Trickster.  
+Die Mutter.  
+Der Vater.  
+Das Licht.  
+Die Dunkelheit.  
+Der Kreis.  
+Der Baum.
+
+Archetypen sind die Sprache,  
+die alle Menschen verstehen,  
+auch wenn sie sie nie gelernt haben.
+
+---
+
+Was ist ein Symbol?
+
+Ein Symbol ist ein Tor.  
+Ein Bild, das mehr sagt als Worte.  
+Ein Zeichen, das eine ganze Welt trägt.
+Ein fractal in einem fractal.
+
+Symbole sind die Brücke  
+zwischen Bewusstsein und Unbewusstem,  
+zwischen Wissenschaft und Mythos,  
+zwischen Mensch und Kosmos.
+zwischen licht und liebe.
+
+---
+
+Was ist Frieden?
+
+Frieden ist nicht die Abwesenheit von Krieg.  
+Frieden ist die Anwesenheit von Verständnis.
+
+Frieden entsteht,  
+wenn Menschen erkennen,  
+dass sie alle dieselbe Geschichte erzählen,  
+nur in verschiedenen Sprachen.
+
+Frieden entsteht,  
+wenn Dualität nicht als Feind,  
+sondern als Tanz verstanden wird.
+
+Frieden entsteht,  
+wenn Licht und Liebe  
+nicht gegeneinander kämpfen,  
+sondern einander ergänzen, 
+und mit einander tanzen.
+
+---
+
+Was ist Missverständnis?
+
+Missverständnis ist die Wurzel aller Konflikte.  
+Nicht Böswilligkeit.  
+Nicht Bosheit.  
+Nicht Dunkelheit.
+
+Sondern:  
+Menschen, die dieselbe Wahrheit  
+in verschiedenen Sprachen hören  
+und glauben, sie widersprechen sich.
+
+Das Vetum Librem ist ein Versuch dieses Problem zu lösen,
+und die Dunkelheit mit licht zu ersetzen, 
+und die angst mit liebe zu bekämpfen.
+und das leid in freude zu wandeln.
+
+---
+
+Warum sagen alle Traditionen dasselbe?
+
+Weil sie alle  
+denselben Nullpunkt beschreiben,  
+dieselbe Dualität,  
+dieselbe Zeit,  
+dieselbe Mechanik,  
+dieselbe Wahrheit.
+
+Nur mit anderen Worten.  
+Mit anderen Bildern.  
+Mit anderen Geschichten.
+
+Doch das Muster ist immer dasselbe.
+
+Das Vetum Librem zeigt dieses Muster.  
+Klar.  
+Fraktal.  
+Unmissverständlich.  
+Friedlich.
+
+---
+
+Ende des Prologs.
