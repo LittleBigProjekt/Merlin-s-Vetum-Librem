@@ -113,7 +113,7 @@ Sterne tanzen.
 Der Kosmos tanzt.
 
 Wärme ist der Moment,  
-in dem das Leben sich selbst entlastet. Eine art St. Vito tanz, der die wölfe davon abhält einander enzuholen, außerhalb des nullpunkts.
+in dem das Leben sich selbst entlastet. Ein kosmischer St.Vitus tanz, der die wölfe davon abhält einander enzuholen, außerhalb des nullpunkts.
 
 ---
 
