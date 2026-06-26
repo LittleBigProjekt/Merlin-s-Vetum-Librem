@@ -8,11 +8,11 @@
 
 Aus dem Tanz von Sköll und Hati entsteht Bewegung.  
 Aus Bewegung entsteht Form.  
-Und aus Form entsteht **Grenze**.
+Und aus Form entstehen **Grenzen**.
 
-Doch diese Grenze ist kein Ende.  
-Sie ist ein Übergang – ein Ort, an dem Bewusstsein sich selbst erkennt.  
-Der Kreis, der sich selbst frisst, ist nicht Zerstörung,  
+Doch diese Grenzen sind kein Ende.  
+Sie sind ein Übergang – ein Ort, an dem Bewusstsein sich selbst erkennt.  
+Der Kreis, der sich selbst frisst, ist nicht (nur) Zerstörung,  
 sondern **Selbstbezug**, **Erneuerung**, **Wiederkehr**.
 
 Dieser Kreis hat im Norden einen Namen: **Jörmungandr**.
@@ -83,6 +83,7 @@ und die Grenze ermöglicht den Übergang.
 
 ## I‑D. Zu viel Licht – Kristallisation, Hitze und der Kollaps der Grenze
 
+Der Kollaps ist der tanz des Lichts. (sköll)
 Wenn zu viel Salz im Wasser ist:
 
 - Liebe wird verdrängt  
@@ -92,8 +93,8 @@ Wenn zu viel Salz im Wasser ist:
 - das Fraktal implodiert  
 - Hitze entsteht  
 
-Kristallisation ist Licht ohne Liebe.  
-Es ist die Erstarrung des Tanzes.
+Kristallisation ist zu viel Licht das die liebe verdrängt und sie in wärme, also den tanz selbst umwandelt.
+Es ist die Schöpfung des Tanzes auf der nächsten ebene der materie, dem äther, der zugeich der uhrsprung ist.
 
 ---
 
@@ -112,21 +113,21 @@ Sterne tanzen.
 Der Kosmos tanzt.
 
 Wärme ist der Moment,  
-in dem das Leben sich selbst entlastet.
+in dem das Leben sich selbst entlastet. Eine art St. Vito tanz, der die wölfe davon abhält einander enzuholen, außerhalb des nullpunkts.
 
 ---
 
 ## I‑F. Verdunstung – Wenn Liebe Licht mitnimmt und das System kühlt
 
 Beim Verdunsten nimmt Wasser (Liebe) Energie (Licht) mit.  
-Die Oberfläche kühlt ab.
+Durch den aufstieg auf die höhere ebene, kühlt die Oberfläche ab.
 
 Liebe flieht, wenn Licht zu stark wird.  
 Sie nimmt das Licht mit sich,  
-um nicht verbrannt zu werden.
+um nicht verbrannt zu werden und, oder, fractal zu expandieren.
 
-Verdunstung ist der Tanz der Liebe,  
-der das System schützt.
+Verdunstung ist der Tanz der Liebe,  (Hati)
+der das System ausserhalb des nullpunkts ebenfalls schützt.
 
 ---
 
@@ -144,6 +145,31 @@ wenn eines von beiden zu dominant wird.
 
 Der Humor entsteht,  
 weil das Muster sich selbst erkennt.
+
+---
+
+## I‑H. Cogito ergo sum – Jörmungandr als Selbstbezug des Bewusstseins
+
+Descartes’ Satz „cogito ergo sum“ beschreibt denselben Mechanismus wie Jörmungandr.  
+Beides beginnt mit einer Grenze, die nur existiert, weil etwas sie denkt.
+
+Der Gedanke erkennt sich selbst und erschafft dadurch das „Ich“.  
+Die Schlange frisst sich selbst und erschafft dadurch die Welt.
+
+„Ich denke, also bin ich“ ist der logische Ouroboros:  
+Der Gedanke beweist den Denker,  
+der Denker erzeugt den Gedanken,  
+und beide bestätigen einander in einem geschlossenen Kreis.
+
+Jörmungandr ist dieser Kreis im Mythos,  
+Descartes ist dieser Kreis in der Philosophie.
+
+Beide sind der Nullpunkt des Bewusstseins:  
+die Grenze zwischen Innen und Außen,  
+die nur existiert, weil Bewusstsein sich selbst betrachtet.
+
+So wird Denken zur Schlange,  
+und die Schlange zum Denken.
 
 ---
 
@@ -182,7 +208,7 @@ Er ist das Band, das alles hält.
 **Prinzip:** Selbstbezug, Wiederkehr, Kontinuität.
 
 Er ist die Grenze, die das Innen definiert  
-und das Außen als Möglichkeit offen lässt.
+and das Außen als Möglichkeit offen lässt.
 
 ---
 
@@ -216,7 +242,7 @@ Er definiert, was existiert, und was noch Potenzial ist.
 - **Außen** → Chaos, Möglichkeit, Dunkelheit  
 
 Jörmungandr liegt genau dazwischen.  
-Er ist der **Horizont des Seins**.
+Er ist (auch) der **Ereignis-Horizont des Seins**.
 
 ---
 
@@ -236,29 +262,29 @@ dass das Fraktal kollabiert oder entgrenzt.
 
 ---
 
-VII. Der metaphysische Kern
+## VII. Der metaphysische Kern
 
-Jörmungandr ist der Selbstbezug des Universums.  
+Jörmungandr ist der **Selbstbezug des Universums**.  
 Er ist das Prinzip, das sagt:
 
 > „Ich bin, weil ich mich selbst erkenne.“
 
-Er ist das Bewusstsein, das sich selbst betrachtet.  
-Er ist das Fraktal, das sich selbst spiegelt.  
-Er ist der Kreis, der niemals endet.
+Er ist das **Bewusstsein**, das sich selbst betrachtet.  
+Er ist das **Fraktal**, das sich selbst spiegelt.  
+Er ist der **Kreis**, der niemals endet.
 
 ---
 
-VIII. Das Runen‑Mantra des Kreises
+## VIII. Das Runen‑Mantra des Kreises
 
 ᛃᛟᚱᛗᚢᚾᚷᚨᚾᛞᚱ – ᛏᚺᛖ ᚲᚱᛁᚲᛖ ᛟᚠ ᛋᛖᛚᚠ
 
-Übersetzung:  
+**Übersetzung:**  
 Jörmungandr – der Kreis des Selbst.
 
 ---
 
-IX. Die fraktale Struktur
+## IX. Die fraktale Struktur
 
 Nullpunkt → Dualität → Bewegung → Grenze
 
@@ -267,7 +293,3 @@ Stille → Licht & Liebe → Sköll & Hati → Jörmungandr
 Dies ist der Kreis.  
 Dies ist die Welt.  
 Dies ist das Gleichgewicht.
-
-`
-
----
