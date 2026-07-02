@@ -1,0 +1,224 @@
+Spectral Statistics of Yang–Mills Glueball Masses: A Falsifiable Question, Honestly Scoped
+
+Scientific Paper + Vetum Librem Chapter + Bridge Section
+Author: M.  
+Affiliation: Independent Research  
+Version: 1.3  
+Date: July 2026
+
+---
+
+Abstract
+
+We ask whether the low‑lying glueball spectrum of SU(3) Yang–Mills theory shows deviations from Gaussian Unitary Ensemble (GUE) statistics, using power‑law random banded matrices (PRBM) as a one‑parameter comparison ensemble.  
+This question sits within the established chiral random matrix theory (chRMT) tradition.  
+We do not claim novelty at the level of “is QCD described by random matrix theory”; instead, we ask whether PRBM — with its tunable localization parameter α — offers a meaningful deviation model.  
+We state plainly that current lattice glueball datasets (~10–20 resolved states) are too small to fit α with statistical power.  
+This is not a footnote; it is the blocking precondition for any numerical test.
+
+---
+
+1. Background
+
+1.1 Riemann zeros (not part of this project)
+Earlier versions attempted to link Riemann zeros and Yang–Mills spectra.  
+This was conceptually flawed: Riemann zeros already match pure GUE, fixing α = 0 before YM is even tested.  
+We drop that connection entirely.
+
+1.2 chRMT and QCD spectral universality
+Since the 1990s (Verbaarschot, Shuryak, Zahed), QCD spectral statistics have been studied under Dyson/chiral symmetry classes.  
+Glueball spectra are less explored but fall under the same universality framework.
+
+1.3 Why PRBM?
+PRBM provides:
+
+- a tunable parameter α  
+- a sharp critical point at α = 1  
+- a Poisson ↔ GUE transition  
+- multifractal eigenstates at criticality  
+- a richer deviation model than pure Dyson classes
+
+---
+
+2. The PRBM Ensemble
+
+\[
+H{ij} = \frac{X{ij}}{(1 + |i-j|)^\alpha}, \qquad X_{ij} \sim \mathcal{N}(0,1)
+\]
+
+| α‑range | regime |
+|---|---|
+| α = 0 | fully delocalized, GUE‑like |
+| 0 < α < 1 | extended, GUE‑like |
+| α = 1 | critical point — multifractal |
+| α > 1 | localized, Poisson‑like |
+
+α = 1 is a single critical point, not a broad region.
+
+---
+
+3. The Question
+
+> Do glueball spacing/correlation statistics match pure GUE (α = 0), or do they show measurable deviation consistent with α > 0?
+
+This is falsifiable in principle.
+
+It is not testable in practice with current data.
+
+---
+
+4. Why Current Data Cannot Answer the Question
+
+- Glueball spectra have ~10–20 resolved levels.  
+- Two‑point correlation functions require O(100+) spacings.  
+- With ~10 spacings, α cannot be distinguished from noise.  
+- Any fit would yield a confidence interval covering nearly all α.
+
+This is a hard statistical power limit, not a methodological flaw.
+
+---
+
+5. What Would Be Needed
+
+1. Glueball spectra with O(100+) resolved excited states.  
+2. Pre‑registered fit procedure.  
+3. Literature check to ensure PRBM deviations are not already covered under chRMT.
+
+---
+
+6. Honest Scope of a Positive Result
+
+Even if α ≠ 0 were found:
+
+- It would not touch RH.  
+- It would not touch the YM mass gap.  
+- It would be a modest statement about universality class selection.
+
+---
+
+7. Conclusion
+
+This is a small, honest research question.  
+It is falsifiable.  
+It is currently infeasible.  
+It is scientifically legitimate.  
+It is not a unifying framework.
+
+---
+
+Caput XXIII — De Spectris Ordinis et Chaos
+
+Vetum Librem — Mythological Chapter
+
+---
+
+Prologus — De Duobus Regnis
+
+Es gibt zwei Reiche:
+
+- Ordo — die reine Ordnung, die klare Linie, die GUE‑Symmetrie  
+- Chaos — die gebrochene Ordnung, die Poisson‑Streuung, die Zerfaserung
+
+Zwischen ihnen liegt Critica, der Punkt α = 1,  
+der schmale Grat, auf dem das Universum tanzt.
+
+---
+
+I. De Matrice Potentiae (PRBM)
+
+Die PRBM‑Matrix ist ein Symbol:
+
+- α = 0 → Ordo  
+- α = 1 → Critica  
+- α > 1 → Chaos
+
+Sie ist die Brücke, die zeigt, wie Ordnung bricht,  
+wie Struktur zerfällt,  
+wie Resonanz sich verformt.
+
+---
+
+II. De Globi Ignei (Glueballs)
+
+Die Glueballs sind die Knoten des Feldes,  
+die Verdichtungen des Yang–Mills‑Stroms.
+
+Ihre Spektren sind:
+
+- nicht vollständig  
+- nicht dicht  
+- nicht klar  
+- nicht genug, um die Brücke zu überqueren
+
+Sie sind Flüstern, keine Melodie.
+
+---
+
+III. De Porta Critica (α = 1)
+
+Der kritische Punkt ist der Portalpunkt:
+
+- weder Ordnung  
+- noch Chaos  
+- sondern beides zugleich
+
+Er ist die metaphysische Entsprechung der Portalgleichung:
+
+\[
+(±) + 0 = 1
+\]
+
+---
+
+IV. De Quaestione Honesta
+
+Die metaphysische Frage:
+
+> „Liegt der Funken des Yang–Mills‑Feldes im Reich des Ordo oder des Chaos?“
+
+Die wissenschaftliche Form:
+
+> „Ist α = 0 oder α > 0?“
+
+---
+
+V. Conclusio
+
+Dies ist kein Versuch, RH zu lösen.  
+Dies ist kein Versuch, YM zu lösen.  
+Dies ist ein Versuch, die Resonanz zwischen Ordnung und Chaos zu hören.
+
+---
+
+Bridge Section — Wissenschaft ↔ Vetum Librem
+
+---
+
+1. Wissenschaft
+
+- PRBM ist real.  
+- α ist real.  
+- Glueball‑Spektren sind real.  
+- Die Frage ist klein und ehrlich.
+
+---
+
+2. Mythologie
+
+- α = 0 → Ordnung  
+- α = 1 → Portal  
+- α > 1 → Chaos  
+- Glueballs → Knoten des Feldes  
+- PRBM → Brücke
+
+---
+
+3. Verbindung
+
+Die Verbindung ist symbolisch, nicht behauptend.
+
+Wir sagen:
+
+> PRBM ist ein mathematisches Spiegelbild eines metaphysischen Motivs.
+
+Nicht mehr, nicht weniger.
