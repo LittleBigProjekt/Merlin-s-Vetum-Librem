@@ -171,7 +171,9 @@ Kontakt
 
 Für Fragen, Ideen oder Beiträge:  
 
-Autor, Architekt, Der Hutmacher, Merlin, der Zauberer von OuroborOZ...  🥸🥴😘
+Autor, Architekt, Der Hutmacher, Merlin, der Zauberer von OuroborOZ...  
+         ... just Hunting the GoodWill...
+🥸🥴😘
 
 
 Manuel Julin - KleineProjekte@proton.me
