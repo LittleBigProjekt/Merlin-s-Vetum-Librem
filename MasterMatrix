@@ -1,0 +1,225 @@
+Towards a Spectral Deviation Analysis of Yang–Mills Glueball Masses Using Power‑Law Random Banded Matrices
+
+A falsifiable conjecture independent of Riemann zeros
+Author: M.  
+Affiliation: Independent Research  
+Date: July 2026  
+Version: 1.1
+
+---
+
+Abstract
+
+We propose a falsifiable research conjecture examining whether the low‑lying glueball spectrum of SU(3) Yang–Mills theory exhibits systematic deviations from pure Gaussian Unitary Ensemble (GUE) statistics.  
+Instead of fitting a fractal parameter α to Riemann zeros — which are already known to match GUE — we fit α directly to Yang–Mills data using the power‑law random banded matrix (PRBM) ensemble.  
+This avoids triviality and provides a meaningful test of whether Yang–Mills spectra lie in the GUE universality class or show critical behavior consistent with α > 0.  
+We correct common misconceptions about PRBM criticality, outline a realistic numerical procedure, and discuss practical limitations and scientific scope.
+
+---
+
+1. Introduction
+
+The Riemann Hypothesis (RH) and the Yang–Mills Mass Gap (YM) are two of the Clay Millennium Problems.  
+Both are fundamentally spectral problems:
+
+- RH concerns the distribution of zeros of ζ(s), encoding oscillatory structure in prime number distribution.  
+- YM concerns the mass spectrum of excitations in non‑abelian gauge fields.
+
+Previous research has identified:
+
+- GUE‑like pair correlation statistics in Riemann zeros (Montgomery–Odlyzko).  
+- chaotic spectral signatures in Yang–Mills glueball spectra (lattice QCD).  
+- scale‑invariant behavior in both analytic number theory and renormalization group flow.
+
+These parallels motivate a testable conjecture about Yang–Mills spectral statistics.
+
+---
+
+1.1 Scientific Philosophy
+
+The goal of this work is not to produce an “unwiderlegbare” statement.  
+In scientific methodology, falsifiability — not irrefutability — is the criterion for meaningful hypotheses.  
+The conjecture proposed here is intentionally falsifiable and may fail when confronted with data.  
+This is a feature, not a flaw.
+
+---
+
+2. Background
+
+2.1 Riemann Zeros and GUE Statistics
+
+Let \( t_n \) denote the imaginary parts of non‑trivial zeros of ζ(s).  
+Their pair correlation function satisfies:
+
+\[
+R_2^{\zeta}(s) \sim 1 - \left(\frac{\sin(\pi s)}{\pi s}\right)^2,
+\]
+
+matching the Gaussian Unitary Ensemble (GUE).  
+This is a hallmark of quantum chaos.
+
+---
+
+2.2 Yang–Mills Glueball Spectra
+
+Lattice QCD simulations provide numerical estimates of glueball masses:
+
+\[
+m0, m1, m_2, \dots
+\]
+
+Their spacing statistics exhibit signatures consistent with chaotic quantum systems.  
+However, the number of reliably extracted states is small (typically 10–20).
+
+---
+
+2.3 Power‑Law Random Banded Matrices (PRBM)
+
+PRBM ensembles are defined by:
+
+\[
+H{ij} = \frac{X{ij}}{(1 + |i-j|)^\alpha},
+\]
+
+where \( X_{ij} \sim \mathcal{N}(0,1) \).
+
+Correct physical behavior:
+
+- α = 0 → fully delocalized, GUE‑like  
+- α = 1 → critical multifractality (the unique critical point)  
+- α > 1 → localized, Poisson‑like  
+- α < 1 → extended, GUE‑like regime
+
+Thus α = 1 is the sharp critical point, not a broad intermediate region.
+
+PRBM ensembles provide a non‑trivial, parameter‑dependent testbed for spectral deviations.
+
+---
+
+3. A Non‑Trivial, Falsifiable Conjecture
+
+Let:
+
+- \( R_2^{YM}(s) \) be the two‑point correlation function of Yang–Mills glueball masses  
+- \( R_2^{PRBM}(s; \alpha) \) be the two‑point correlation function of the PRBM ensemble
+
+---
+
+Conjecture (PRBM–Yang–Mills Deviation Conjecture)
+
+> Yang–Mills glueball spectra exhibit deviations from pure GUE statistics that can be approximated by PRBM ensembles with α > 0.
+
+This conjecture:
+
+- does not rely on Riemann zeros  
+- is not trivial  
+- is not predetermined  
+- is falsifiable  
+- is numerically testable  
+- is scientifically meaningful
+
+---
+
+3.1 Corrected PRBM Definition
+
+\[
+H{ij} = \frac{X{ij}}{(1 + |i-j|)^\alpha}
+\]
+
+with:
+
+- α = 0 → GUE  
+- α = 1 → critical multifractality  
+- α > 1 → Poisson  
+- α < 1 → extended regime
+
+This ensemble is:
+
+- non‑trivial  
+- parameter‑dependent  
+- numerically implementable  
+- mathematically well‑posed
+
+---
+
+4. Numerical Test Procedure
+
+4.1 Practical Limitations
+
+Current lattice QCD simulations provide only a small number of glueball masses.  
+This dataset is insufficient for robust estimation of two‑point correlation functions.  
+Therefore, the conjecture cannot be tested with existing data and must be considered a forward‑looking hypothesis.
+
+---
+
+4.2 Numerical Procedure Using PRBM
+
+Step 1 — Extract Glueball Masses
+
+Use lattice QCD data.
+
+Step 2 — Compute YM Correlations
+
+\[
+R_2^{YM}(s)
+\]
+
+Step 3 — Generate PRBM Matrices
+
+\[
+H{ij} = \frac{X{ij}}{(1 + |i-j|)^\alpha}
+\]
+
+Compute eigenvalues and:
+
+\[
+R_2^{PRBM}(s; \alpha)
+\]
+
+Step 4 — Fit α to YM
+
+Find α such that:
+
+\[
+R2^{PRBM}(s; \alpha) \approx R2^{YM}(s)
+\]
+
+Step 5 — Interpret α
+
+- α = 0 → YM is GUE  
+- α > 0 → YM deviates from GUE  
+- α = 1 → YM shows critical multifractality  
+- α > 1 → YM is Poisson-like
+
+---
+
+5. Interpretation and Limitations
+
+Even if the conjecture were confirmed:
+
+- it would reflect known universality in random matrix theory  
+- it would not imply a deep connection between RH and YM  
+- it would not advance RH or YM proofs  
+- it would show that YM spectra lie in a specific universality class  
+- it would clarify the extent of universality across number theory and QFT
+
+---
+
+6. Future Work
+
+The next step is to:
+
+1. implement PRBM numerically  
+2. compute its correlation functions  
+3. compare them to Yang–Mills spectra  
+4. test for deviations from GUE  
+5. explore whether YM spectra cluster near α = 0 or α = 1
+
+Even if current glueball datasets are insufficient, future lattice QCD simulations may provide larger spectral samples.
+
+---
+
+Conclusion
+
+We present a falsifiable, non‑trivial conjecture testing whether Yang–Mills glueball spectra deviate from GUE statistics using PRBM ensembles.  
+This avoids triviality, does not rely on Riemann zeros, and provides a meaningful numerical research direction grounded in established spectral theory.
