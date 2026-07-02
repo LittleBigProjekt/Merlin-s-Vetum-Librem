@@ -1,0 +1,222 @@
+Towards a Fractal–Spectral Correspondence Between Riemann Zeros and Yang–Mills Glueball Spectra
+
+A falsifiable conjecture using power‑law random banded matrices (PRBM)
+Author: M.  
+Affiliation: Independent Research  
+Date: July 2026  
+Version: 1.0
+
+---
+
+Abstract
+
+We propose a falsifiable research conjecture examining whether certain statistical properties of the non‑trivial zeros of the Riemann zeta function and the low‑lying glueball spectrum of SU(3) Yang–Mills theory may share features characteristic of power‑law random banded matrices (PRBM), a well‑studied ensemble exhibiting a tunable transition between Poisson and GUE statistics.  
+We define the ensemble precisely, formulate a testable conjecture, outline a numerical procedure, and discuss practical limitations and scientific scope.  
+This work does not claim equivalence of spectra nor propose a Hilbert–Pólya operator.  
+Instead, it provides a realistic, falsifiable research program grounded in established spectral theory.
+
+---
+
+1. Introduction
+
+The Riemann Hypothesis (RH) and the Yang–Mills Mass Gap (YM) are two of the Clay Millennium Problems.  
+Both are fundamentally spectral problems:
+
+- RH concerns the distribution of zeros of ζ(s), encoding oscillatory structure in prime number distribution.  
+- YM concerns the mass spectrum of excitations in non‑abelian gauge fields.
+
+Previous research has identified:
+
+- GUE‑like pair correlation statistics in Riemann zeros (Montgomery–Odlyzko).  
+- chaotic spectral signatures in Yang–Mills glueball spectra (lattice QCD).  
+- scale‑invariant behavior in both analytic number theory and renormalization group flow.
+
+These parallels motivate a testable conjecture about shared statistical structure.
+
+---
+
+1.1 Scientific Philosophy
+
+The goal of this work is not to produce an “unwiderlegbare” statement.  
+In scientific methodology, falsifiability — not irrefutability — is the criterion for meaningful hypotheses.  
+The conjecture proposed here is intentionally falsifiable and may fail when confronted with data.  
+This is a feature, not a flaw.
+
+---
+
+2. Background
+
+2.1 Riemann Zeros and GUE Statistics
+
+Let \( t_n \) denote the imaginary parts of non‑trivial zeros of ζ(s).  
+Their pair correlation function satisfies:
+
+\[
+R_2^{\zeta}(s) \sim 1 - \left(\frac{\sin(\pi s)}{\pi s}\right)^2,
+\]
+
+matching the Gaussian Unitary Ensemble (GUE).  
+This is a hallmark of quantum chaos.
+
+---
+
+2.2 Yang–Mills Glueball Spectra
+
+Lattice QCD simulations provide numerical estimates of glueball masses:
+
+\[
+m0, m1, m_2, \dots
+\]
+
+Their spacing statistics exhibit signatures consistent with chaotic quantum systems.  
+However, the number of reliably extracted states is small (typically 10–20).
+
+---
+
+2.3 Power‑Law Random Banded Matrices (PRBM)
+
+PRBM ensembles exhibit:
+
+- tunable transitions between Poisson and GUE statistics  
+- multifractal eigenstates  
+- non‑trivial scaling behavior  
+- realistic modeling of critical quantum systems
+
+They provide a non‑trivial, parameter‑dependent testbed for comparing RH and YM.
+
+---
+
+3. A Falsifiable Conjecture
+
+Let:
+
+- \( R_2^{\zeta}(s) \) be the two‑point correlation function of Riemann zeros  
+- \( R_2^{YM}(s) \) be the two‑point correlation function of Yang–Mills glueball masses  
+- \( R_2^{PRBM}(s; \alpha) \) be the two‑point correlation function of the PRBM ensemble with exponent α
+
+---
+
+Conjecture (Fractal–Spectral Correspondence Conjecture)
+
+There exists α such that:
+
+\[
+R2^{\zeta}(s) = R2^{PRBM}(s; \alpha)
+\]
+
+and
+
+\[
+\lim{L \to \infty} R2^{YM}(s; L) = R_2^{PRBM}(s; \alpha)
+\]
+
+for the same α.
+
+This conjecture is falsifiable, numerically testable, and scientifically admissible.
+
+---
+
+3.1 Definition of the PRBM Ensemble
+
+We define:
+
+\[
+H{ij} = \frac{X{ij}}{(1 + |i-j|)^\alpha},
+\]
+
+where:
+
+- \( X_{ij} \sim \mathcal{N}(0,1) \)  
+- α ≥ 0 is the fractal decay exponent  
+- α = 0 → GUE  
+- α → ∞ → Poisson  
+- intermediate α → multifractal criticality
+
+This ensemble is:
+
+- non‑trivial  
+- parameter‑dependent  
+- numerically implementable  
+- mathematically well‑posed
+
+---
+
+4. Numerical Test Procedure
+
+4.1 Practical Limitations
+
+Current lattice QCD simulations provide only a small number of glueball masses.  
+This dataset is insufficient for robust estimation of two‑point correlation functions.  
+Therefore, the conjecture cannot be tested with existing data and must be considered a forward‑looking hypothesis.
+
+---
+
+4.2 Numerical Procedure Using PRBM
+
+Step 1 — Compute Riemann Zero Correlations
+
+Use Odlyzko’s tables or compute zeros numerically.
+
+Step 2 — Extract Glueball Masses
+
+Use lattice QCD data.
+
+Step 3 — Generate PRBM Matrices
+
+\[
+H{ij} = \frac{X{ij}}{(1 + |i-j|)^\alpha}
+\]
+
+Compute eigenvalues and:
+
+\[
+R_2^{PRBM}(s; \alpha)
+\]
+
+Step 4 — Fit α to Riemann Zeros
+
+Find α such that:
+
+\[
+R2^{PRBM}(s; \alpha) \approx R2^{\zeta}(s)
+\]
+
+Step 5 — Compare YM to the same α
+
+Test:
+
+\[
+R2^{YM}(s) \approx R2^{PRBM}(s; \alpha)
+\]
+
+---
+
+5. Interpretation and Limitations
+
+Even if the conjecture were confirmed:
+
+- it would reflect known universality in random matrix theory  
+- it would not imply a deep connection between RH and YM  
+- it would not advance RH or YM proofs  
+- it would show that both systems lie in the same universality class under PRBM scaling  
+- it would clarify the extent of universality across number theory and QFT
+
+---
+
+6. Future Work
+
+The next step is to:
+
+1. implement PRBM numerically  
+2. compute its correlation functions  
+3. compare them to Riemann zeros  
+4. compare them to future, higher‑precision Yang–Mills spectra
+
+Even if current glueball datasets are insufficient, future lattice QCD simulations may provide larger spectral samples.
+
+---
+
+Conclusion
+
+We present a falsifiable, numerically testable, and scientifically admissible conjecture linking the statistical structure of Riemann zeros and Yang–Mills glueball spectra through power‑law random banded matrices.  
+This transforms structural analogies into a rigorous research program with clear limitations, realistic expectations, and a concrete path forward.
